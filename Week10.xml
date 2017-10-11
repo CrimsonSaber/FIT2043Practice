@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+	<book>
+		<author>Charles Dickens</author>
+	    <title>A Tale of Two Cities</title>
+	</book>
+	<book>
+		<author>Jane Austen</author>
+	    <title>Pride and Prejudice</title>
+	</book>
+	<book>
+		<author>Leo Tolstoy</author>
+	    <title>War and Peace</title>
+	</book>
+</library>
+
