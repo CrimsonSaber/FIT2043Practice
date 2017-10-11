@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+	<book>
+		<title>Lord of the Rings</title>
+		<author>J.R.R. Tolkein</author>
+	</book>
+	<book>
+		<title>The Big Sleep</title>
+		<author>Raymond Chandler</author>
+	</book>
+	<movie format="blu-ray">
+		<title>Star Trek: Into Darkness</title>
+	</movie>
+	<album>
+		<title>Wish You Were Here</title>
+		<artist>Pink Floyd</artist>
+	</album>
+	<movie format="blue-ray">
+		<title>Citizen Kane</title>
+	</movie>
+	<book>
+		<title>The Hitchhiker's Guide to the Galaxy</title>
+		<artist>Douglas Adams</artist>
+	</book>
+	<movie format="dvd">
+		<title>The Princess Bride</title>
+	</movie>
+	<album format="vinyl">
+		<title>The White Album</title>
+		<artist>The Beatles</artist>
+	</album>
+</catalog>
+
+	
