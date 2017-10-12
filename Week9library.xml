@@ -15,20 +15,18 @@
 		<title>Wish You Were Here</title>
 		<artist>Pink Floyd</artist>
 	</album>
-	<movie format="blue-ray">
+	<movie format="blu-ray">
 		<title>Citizen Kane</title>
 	</movie>
 	<book>
 		<title>The Hitchhiker's Guide to the Galaxy</title>
-		<artist>Douglas Adams</artist>
+		<author>Douglas Adams</author>
 	</book>
 	<movie format="dvd">
 		<title>The Princess Bride</title>
 	</movie>
-	<album format="vinyl">
+	<album>
 		<title>The White Album</title>
 		<artist>The Beatles</artist>
 	</album>
 </catalog>
-
-	
