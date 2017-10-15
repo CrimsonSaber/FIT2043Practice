@@ -8,7 +8,7 @@
                 </h1>
                 <xsl:variable name="something" select="cover-art/@url" />
                 <xsl:variable name="something2" select="cover-art/@description" />
-                <img src='{$something}' description='{$something2}'/>
+                <img src='{$something}' alt='{$something2}'/>
                 <h3>
                     Title:
                     <xsl:value-of select="title"/>
