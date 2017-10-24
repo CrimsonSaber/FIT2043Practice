@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<musiclibrary>
+  <song>
+    <title>T1</title>
+    <artist>A1</artist>
+  </song>
+ <song>
+    <title>T2</title>
+    <artist>A2</artist>
+  </song>
+ <song>
+    <title>T3</title>
+    <artist>A3</artist>
+  </song>
+</musiclibrary>
