@@ -1,0 +1,28 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+          <!-- XML Schema Generated from XML Document on Tue Oct 24 2017 18:29:23 GMT+1100 (AEDT) -->
+          <!-- with XmlGrid.net Free Online Service http://xmlgrid.net -->
+       <xs:element name="musiclibrary">
+              <xs:complexType>
+                     <xs:sequence>
+                            <xs:element name="song">
+                                   <xs:complexType>
+                                          <xs:sequence>
+                                                 <xs:element name="title" type="xs:string"></xs:element>
+                                                 <xs:element name="artist" maxOccurs="unbounded" type="xs:string"></xs:element>
+                                             </xs:sequence>
+                                          <xs:attribute name="date" type="xs:date"></xs:attribute>
+                                      </xs:complexType>
+                               </xs:element>
+                            <xs:element name="audiobook">
+                                   <xs:complexType>
+                                          <xs:sequence>
+                                                 <xs:element name="title" type="xs:string"></xs:element>
+                                                 <xs:element name="author" type="xs:string"></xs:element>
+                                                 <xs:element name="narrator" maxOccurs="unbounded" type="xs:string"></xs:element>
+                                             </xs:sequence>
+                                      </xs:complexType>
+                               </xs:element>
+                        </xs:sequence>
+                 </xs:complexType>
+          </xs:element>
+   </xs:schema>
